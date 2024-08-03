@@ -20,6 +20,8 @@ Feel free to reach out to me for collaboration, project ideas, or just to connec
 📧 Email: tridips47@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/iconictridip/
 
+Looking forward to connecting with fellow developers and technology enthusiasts!
+
 
 <!---
 stridip/stridip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
